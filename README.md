@@ -4,6 +4,9 @@
 Set up Sublime vimrc:
   https://github.com/grigio/vim-sublime
 
+Add local remote
+$ git remote add origin git@github.com:sakibj/dotfiles.git
+
 Generate ssh key:
 $ ssh-keygen -t rsa -C "your_email@example.com"
 
